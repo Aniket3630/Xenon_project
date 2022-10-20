@@ -1,0 +1,33 @@
+﻿body 
+{
+    background-image:url;
+    margin:0;
+    padding:0;
+    background-size:cover;
+    font-family:Sans-Serif;
+    background-repeat:no-repeat;
+    
+    
+}
+.contact
+{
+  position:absolute;
+  top:477px;
+  left:762px;
+  transform:translate(-50%, -50%);
+  width:200px;
+  height:350px;
+  box-sizing:border-box;
+  align-text:corner;
+  justify-content:center;
+  background-color:ThreeDFace;
+  background:transparent;
+    
+    }
+    .h2
+    {
+        paddding:0;
+        margin:0;
+        text-align:center;
+        color:rgb()
+        }

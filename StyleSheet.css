@@ -1,0 +1,60 @@
+﻿body 
+{
+  background-image:url("http://localhost:1128/ani/note.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  height:100%;
+  font-family:Arial;
+  
+}
+.signupbox
+{
+  max-width:350px;
+  border-radius:20px;
+  margin:auto;
+  background:rgba(0,0,0,0.8);
+  box-sizing:border-box;
+  padding:40px;
+  color:#fff;
+  margin-top:20px;
+  text-align:center;
+  background:transparent;
+
+}
+.h2
+{
+  text-align:center;
+  
+    }
+.lblemail,.lblpass,.lbllast
+{
+    width:100px;
+    box-sizing:box-border;
+    padding:12px 5px;
+    background:rgba(0,0,0,0.10);
+    outline:none;
+    border:none;
+    border-bottom:1px dotted #fff;
+    color:#fff;
+    border-radius:5px;
+    margin:5px;
+    font-weight:bold;
+}
+.btnsubmit
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    box-sizing:box-border;
+    padding:10px 0;
+    margin-top:30px;
+    background:#60adde;
+    opacity:0.7;
+    border-radius:20px;
+    color:#fff;
+}
+.btnsubmit:hover
+{
+    background:#003366;
+    opacity:0.7;
+}
